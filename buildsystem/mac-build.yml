@@ -1,5 +1,1 @@
-steps:
-- template: base-template.yml
-
-- script: dotnet build src/LibVLCSharp.Mac.slnx -c Release
-  displayName: 'Build solution'
+ solution'
